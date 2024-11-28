@@ -52,7 +52,7 @@ body {
 
 .social-network:hover {
   background-color: deeppink;
-  color: var(--white); 
+  color: black; 
 
   & a{
     display: inline-block;
