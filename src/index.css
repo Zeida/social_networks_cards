@@ -1,29 +1,24 @@
-:root{
-  --white:#fff;
-  --black:#000; 
-}
-
 body {
   font-family: Poppins, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: var(--white); 
+  background-color:white; 
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  color: var(--white); 
+  color: white; 
 }
 
 .social-network {
-  background-color: var(--white); 
-  color: var(--black);
+  background-color: white; 
+  color: black;
   width: 300px; 
   height: 400px;
   padding: 20px;
   margin: 10px; 
   text-align: center;
-  border: 2px solid var(--black);
+  border: 2px solid black;
 }
 
 .social-network svg {
@@ -39,8 +34,20 @@ body {
 }
 
 .social-network p {
-  font-size: 19px;
+  font-size: 16px;
   margin: 15px 0;
+  padding: 15px;
+  
+}
+
+.social-network a {
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 10px;
+  padding: 15px 100px;
+  border-radius:30px;
+  color: #fff;
+  background-color: deeppink;
 }
 
 .social-network:hover {
@@ -51,19 +58,13 @@ body {
     display: inline-block;
     text-decoration: none;
     margin-top: 10px;
-    padding: 10px;
-    border-radius:20px;
+    padding: 15px 100px;
+    border-radius:30px;
     color: var(--black);
-    background-color: var(--white);
+    background-color: white;
   }
-}
 
-.social-network a {
-  display: inline-block;
-  text-decoration: none;
-  margin-top: 10px;
-  padding: 10px;
-  border-radius:20px;
-  color: #fff;
-  background-color: deeppink;
+  & h1{
+    color: white; 
+  }
 }
