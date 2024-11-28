@@ -1,6 +1,8 @@
-# 🌐 Redes Sociales Cards: Un Ejercicio de Diseño Responsivo 🚀
-
+# 🌐 Social Network Cards: CSS🚀
+ 
 Bienvenido/a a este repositorio, donde recree **tarjetas interactivas de redes sociales** utilizando únicamente **HTML** y **CSS**. Este proyecto es ideal para practicar diseño y aprender a aplicar efectos `:hover`, variables CSS, y estilos personalizados.
+
+[Accede a visualizarlo](https://zeida.github.io/social_networks_cards/)
 
 ## 📋 Descripción del Proyecto
 
@@ -10,7 +12,7 @@ Replicar el diseño de unas tarjetas de redes sociales con un toque interactivo,
 
 ### 💡 Características principales:
 
-1. **Diseño minimalista**: Utilizamos `<img>` o `<svg>` para los íconos, `<h1>` para los títulos, `<p>` para descripciones y `<a>` para los enlaces.
+1. **Diseño minimalista**: Utilice `<img>` o `<svg>` para los íconos, `<h1>` para los títulos, `<p>` para descripciones y `<a>` para los enlaces.
 2. **Interactividad suave**: Los efectos `:hover` dan vida a las tarjetas, invitando a explorar cada red social.
 3. **Código modular y reusable**: Una tarjeta base que se replica para cada red social.
 
@@ -31,14 +33,6 @@ Replicar el diseño de unas tarjetas de redes sociales con un toque interactivo,
 
 ---
 
-## 🖼️ Vista Previa
-
-Aquí tienes un vistazo del diseño:
-
-![Vista previa de las tarjetas de redes sociales](https://zeida.github.io/social_networks_cards/)
-
----
-
 ## 🚀 Cómo usar este proyecto
 
 1. **Clonar el repositorio**:
@@ -49,11 +43,6 @@ Aquí tienes un vistazo del diseño:
    ```
 
 2. **Abrir el archivo HTML en tu navegador**:
-   ```bash
-   Copiar código
-   cd social_network_cards
-   open index.html
-   ```
 
 ## 🌈 Inspiración y Aprendizaje
 
@@ -62,6 +51,10 @@ Este proyecto es perfecto para:
 Practicar diseño modular con HTML y CSS.
 Experimentar con variables CSS.
 Desarrollar interacciones visuales con pseudo-clases como :hover.
+
+## 🌍 Accede a visualizarlo
+Puedes ver una versión en vivo del proyecto en el siguiente enlace:  
+[Accede a visualizarlo](https://zeida.github.io/social_networks_cards/)
 
 ## 🤝 Contribuciones
 
